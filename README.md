@@ -2,6 +2,9 @@
 
 Xcode Extension to automatically select the line containing the matching bracket
 
+## NOTE: This is a proposal with prospective sample code, it is not functional ##
+
+
 ## 1. Problem Statement
 
 When developing in Xcode, developers frequently need to temporarily disable code blocks (such as `withAnimation`, `HStack`, etc.). The current workflow is cumbersome:
